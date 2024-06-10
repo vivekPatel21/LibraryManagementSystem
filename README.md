@@ -5,6 +5,4 @@ This program sorts through a list of books, and than proceeds to sort them based
 
 
 Author(s):
-Vivek Patel
-
-Nick McCarrey
+Vivek Patel & Nick McCarrey
